@@ -1,0 +1,8 @@
+[2026-09-28 10:00:01] INFO  System startup complete
+[2026-09-28 10:00:05] DEBUG Connection established to 127.0.0.1
+[2026-09-28 10:01:14] ERROR Database timeout on replica #2
+[2026-09-28 10:01:25] INFO  User 'dejid' logged in successfully
+[2026-09-28 10:02:40] ERROR HTTP 500: Internal server error on /api/v1/auth
+[2026-09-28 10:03:00] WARN  High memory usage: 86%
+[2026-09-28 10:04:12] ERROR Payment gateway unreachable: timeout
+[2026-09-28 10:05:00] INFO  Routine healthcheck passed
